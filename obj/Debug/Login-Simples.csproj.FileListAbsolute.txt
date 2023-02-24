@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\bin\Debug\Login-Simples.exe.config
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\bin\Debug\Login-Simples.exe
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\bin\Debug\Login-Simples.pdb
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\obj\Debug\Login-Simples.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\obj\Debug\Login_Simples.Login.resources
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\obj\Debug\Login_Simples.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\obj\Debug\Login-Simples.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\obj\Debug\Login-Simples.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\obj\Debug\Login-Simples.exe
+C:\Users\Lucas\source\repos\Login-Simples\Login-Simples\obj\Debug\Login-Simples.pdb
