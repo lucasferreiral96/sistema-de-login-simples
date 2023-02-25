@@ -10,33 +10,18 @@ using System.Windows.Forms;
 
 namespace Login_Simples
 {
-    public partial class Login : Form
+    public partial class logged : Form
     {
-        public Login()
+        public logged()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            logged ss = new logged();
-            ss.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Close();
+            Login login = new Login();
+            login.Show();
         }
     }
 }
